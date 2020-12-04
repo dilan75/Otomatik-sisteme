@@ -1,0 +1,2 @@
+# Otomatik-sisteme
+Kod
